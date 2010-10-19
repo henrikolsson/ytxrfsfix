@@ -9,6 +9,7 @@ screen. This is wrong, it will look something like [this][1]
 This code fixes it by tricking flash.
 
 Usage:
+
     $ make
     $ LD_PRELOAD="./ytxrfsfix.so" google-chrome
 
